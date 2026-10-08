@@ -1,0 +1,6 @@
+# Ignoriere alle temporären Notizdateien in diesem Ordner
+*.tmp
+*.swp
+ToDo.md
+
+# Ignoriere Unterordner
