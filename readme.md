@@ -1,0 +1,211 @@
+<!-- markdownlint-disable MD013 -->
+# Free Open Source Software (FOSS)
+
+Dies soll eine Übersicht über freie und Open Source Software sein.
+
+> [!NOTE]
+> Nicht alle aufgeführten Programme und Tools sind Open Source bzw. freie Software.
+> Teilweise sollen es auch einfach alternativen sein, um nicht von Techgiganten abhängig zu sein.
+
+> [!NOTE]
+> Manche Beschreibungstexte wiederspiegeln meine persönliche Meinung, sollen aber nicht als wertend verstanden werden!
+> Nutzt was ihr wollt, mögt oder kennt. Dies ist nur eine Sammlung von (gröstenteils) freier und Open Source Software.
+
+## VMs
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [QEMU](https://www.qemu.org/) | Virtualisierung und Hardwareemulation |
+| [Virt-Manager](https://virt-manager.org/) | Desktop UI für VMs |
+| [Boxen](https://apps.gnome.org/de/Boxes/) | GNOME App zur Virtualisierung |
+| [Oracle VirtualBox](https://www.virtualbox.org/) | Virtualisierungssoftware von Oracle |
+| [UTM](https://mac.getutm.app/) | Virtualisierungssoftware speziell für MacOS |
+
+## IDEs (Editoren)
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [VS Code](https://code.visualstudio.com/) | MS Visual Studio Code |
+| [VS Codium](https://vscodium.com/) | Visual Studio Code (ohne MS Telemetrie) |
+| [Kate](https://kate-editor.org/de/) | KDE Editor Kate |
+| [Zed](https://zed.dev/) | Zed Editor (schlanker, guter Editor mit Vim Modus) |
+| [Rider](https://www.jetbrains.com/de-de/rider/) | .NET und Game Dev IDE |
+| [nano](https://www.nano-editor.org/) | GNU nano Editor (bei den meisten Linux Distro's vorinstalliert) |
+| [GNU Emacs](https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html) | Erweiterbarer, Anpassbarer mächtiger Texteditor |
+| [Neovim](https://neovim.io/) | Vim-basierter Texteditor |
+| [Vim](https://www.vim.org/) | Gut konfigurierbarer Texteditor |
+
+## Videobearbeitung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [KDEnlive](https://kdenlive.org/de/) | Non-linearer Video Editor von KDE |
+| [FilmCraft](https://github.com/storytold/filmcraft) | Rust Video Editor ähnlich wie Adobe Premiere |
+| [Lightworks](https://lwks.com/) | Kostenpflichtiger Video Editor mit kostenloser Version |
+| [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/studio) | Profesioneller Video Editor mit kostenloser Version |
+
+## Videoeffekte und 3D Animation
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Fusion](https://www.blackmagicdesign.com/de/products/fusion) | Vom Hersteller von DaVinci Resolve |
+| [Natron](https://natrongithub.github.io/) | Open Source Visual Effect Editor |
+| [Blender](https://www.blender.org/) | Blender eben |
+
+## Kreativ-Suite
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Affinity](https://www.affinity.studio/de_de) | Alternative zu Adobe CC |
+
+## Vektorgrafik
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [InkScape](https://inkscape.org/) | Vektorgrafiken erstellen und bearbeiten (vergleichbar mit Adobe Illustrator) |
+| [Graphite](https://github.com/GraphiteEditor/Graphite) | Open Source Vektorgrafikprogramm |
+| [Vectorpea](https://www.vectorpea.com/) | Online Vektorgrafiken bearbeiten |
+
+## Fotografie-Workflow
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Darktable](https://www.darktable.org/) | RAW Fotodateien bearbeiten und organisieren (vergleichbar mit Adobe Lightroom) |
+| [RapidRAW](https://www.getrapidraw.com/) | RAW Fotodateien bearbeiten - [Beispiel](https://www.youtube.com/watch?v=fsmdNyxFcrM) (ebenfalls vergleichbar mit Adobe Lightroom) |
+| [RAW Therapee](https://rawtherapee.com/) | RAW Bildverarbeitungsprogramm |
+| [eagle](https://eagle.cool/) | Bilddateien organisieren |
+
+## Bildbearbeitung, Zeichnen & malen
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Gimp](https://www.gimp.org/) | **Der** Adobe Photoshop Ersatz |
+| [Pinta](https://www.pinta-project.com/) | Open Source Zeichnen und Bildbearbeitung |
+| [Krita](https://krita.org/de/) | Digital zeichnen und malen (ebenfalls Open Source) |
+| [Photopea](https://www.photopea.com/) | Online Fotobearbeitungsprogramm (ähnlich wie Adobe Photoshop) |
+
+## Dokumentenbetrachter (PDF, Comic, EPub)
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Okular](https://okular.kde.org/de/) | Universeller Dokumentenbetrachter (vergleichbar mit Adobe Acrobat) |
+| [Libre Office Draw](https://de.libreoffice.org/discover/draw/) | Texte und Grafiken in PDF's bearbeiten inkl. digitaler Signaturen |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Open Source PDF's bearbeiten |
+
+## 2D- und 3D-CAD
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [LibreCAD](https://librecad.org/) | Open Source 2D-CAD (Installation Fedora `sudo dnf install librecad`) |
+| [QCAD](https://www.qcad.org/de/) | Open Source 2D-CAD |
+| [FreeCAD](https://www.freecad.org/) | Parametrisch 3D-Modellieren (Installation Fedora `sudo dnf install freecad`) |
+| [Onshape](https://www.onshape.com/de/) | Online-3D-CAD von PTC (**Achtung**: öffentliche Speicherung bei der kostenlosen Version) |
+
+## Office-Anwendungen
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [LibreOffice](https://de.libreoffice.org/) | MS Office Ersatz |
+| [OpenOffice](https://www.openoffice.org/de/) | Weiterer MS Office Ersatz (wird aber kaum noch gepflegt) |
+| [kova.md](https://kova.md/) | Präsentationen mittels Markdown Dateien (alternative zu MS PowerPoint) |
+| [Wire](https://wire.com/de/) | Sicherer Open Source Ersatz für MS Teams |
+| [Nextcloud Talk](https://nextcloud.com/de/talk/) | Für kleine Teams kostenlos (Ersatz für MS Teams) |
+
+## ToDo & Aufgabenplanung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Super Productivity](https://super-productivity.com/) | Aufgabenverwaltung (ToDo's) |
+| [Vikunja](https://vikunja.io/) | Umfangreicher Aufgabenplaner |
+
+## Email Clients
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Thunderbird](https://www.thunderbird.net/de/) | Standard Email-Client (ähnlich wie MS Outlook) |
+| [Geary](https://gitlab.gnome.org/GNOME/geary) | Open Source Email-Client |
+| [Evolution](https://gitlab.gnome.org/GNOME/evolution) | Email-Client mit integriertem Kalender und Adressbuch |
+
+## Notizen und Wissenssammlung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Obsidian](https://obsidian.md/) | Obsidian, mächtige Notizen-App mit vielen Plugins erweiterbar |
+| [ZenNotes](https://zennotes.org/) | Ähnlich wie Obsidian |
+| [HelixNotes](https://helixnotes.com/) | Ebenfalls mit Obsidian vergleichbar |
+| [Notesnook](https://notesnook.com/) | Just Notes |
+| [Logseq](https://github.com/logseq/logseq) | Wissensmanagement- und Kollaborationsplattform |
+| [Joplin](https://joplinapp.org/de/) | Mit Notion vergleichbar aber Open Source |
+| [Trilium](https://triliumnotes.org/) | Persönliche Wissensdatenbank |
+| [Docmost](https://docmost.com/) | Lokales Wiki für Unternehmensteams |
+| [Xournal++](https://xournalpp.github.io/) | Notizen-App für Handschriftliche Notizen |
+
+### Forschungsassistent
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Zotero](https://www.zotero.org/) | Spezielle Notizen-App - gut für Buchsammlungen und Recherchen für Studium und Beruf |
+
+## E-Reader und Buchsammlung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Readest](https://readest.com/de) | Kostenloser, Quelloffener Reader für EPub und PDF's |
+| [Calibre](https://calibre-ebook.com/) | Vermutlich der bekannteste EBook-Reader |
+
+## Passwortmanager
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [ProtonPass](https://proton.me/de/pass) | Kostenloser Passwortmanager |
+| [Bitwarden](https://bitwarden.com/) | Bekannter Passwortmaanger (kann mittels [Vaultwarden](https://github.com/dani-garcia/vaultwarden) privat selber gehosted werden) |
+| [Passbolt](https://www.passbolt.com/) | Open Source Passwortmanager |
+| [Psono](https://psono.com/de) | Selbstgehosteter Open Source Passwortmanager |
+| [Pass](https://www.passwordstore.org/) | Standard "Unix" Passwortmanager (TUI - [Anleitung](https://ryan.himmelwright.net/post/setting-up-pass/)) |
+
+## Cloud-Speicher
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [ProtonDrive](https://proton.me/de/drive) | 5 GB kostenloser Cloudspeicher |
+| [Filen](https://filen.io/) | 10 GB kostenloser Cloudspeicher |
+| [pCloud](https://www.pcloud.com/de) | Bis zu 10 GB kostenloser Cloudspeicher |
+| [Nextcloud](https://nextcloud.com/de/) | Die Cloud-Lösung zum selber hosten |
+
+## Fernzugriff und Support
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [RustDesk](https://rustdesk.com/de/) | Gute alternative zu TeamViewer |
+
+## Dateien teilen
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [LocalSend](https://localsend.org/de) | Dateien schnell, sicher und einfach von jedem Gerät aus teilen |
+
+## Gruppenchat und Community
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Fluxer](https://fluxer.app/) | Alternative zu Discord |
+| [Stoat](https://stoat.chat/) | Ebenfall eine Community-Alternative zu Discord |
+| [Nerimity](https://nerimity.com/) | Elegante und moderne Chat-App (ähnlich wie Discord) |
+| [GameVox](https://gamevox.com/de/) | Noch eine alternative zu Discord |
+| [matrix](https://matrix.org/) | Offenes Netzwerk für sichere, dezentrale Kommunikation |
+| [Teamspeak 6](https://www.teamspeak.com/de/downloads/) | Aktuellste und stark überarbeitete Version von Teamspeak |
+
+## Webbrowser
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Mulvad](https://mullvad.net/en/browser) | Maximum an Sicherheit, Privatsphäre und Datenschutz |
+| [LibreWolf](https://librewolf.net/) | Firefox Unterbau aber in sicher |
+| [Helium](https://helium.computer/) | Bessere und saubere alternative zu Brave |
+| [Zen-Browser](https://zen-browser.app/) | Visuell ansprechender Browser mit relativ guter Privatsphäre |
+| [Firefox](https://www.firefox.com/de/) | Standardeinstellungen eher schlecht, nach Eingriffen ganz okay |
+| [Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Ungoogled-Chromium Browser |
+| [Brave](https://brave.com/de/) | Inzwischen zu viel Bloat (KI, Crypto, Pseudo-VPN) |
+| [Vivaldi](https://vivaldi.com/de/) | Datenschutz eher schlecht, nicht mein Favorit |
+| [Opera](https://www.opera.com/de/download) | Absolute Datenkrake - nicht empfehlenswert |
+| [Google Chrome](https://www.google.com/intl/de/chrome/) | Google Datensammler |
