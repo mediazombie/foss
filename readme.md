@@ -1,14 +1,13 @@
 <!-- markdownlint-disable MD013 -->
 # Free Open Source Software (FOSS)
 
-Dies soll eine Übersicht über freie und Open Source Software sein.
+Dies soll eine Übersicht über meist freie und quelloffene (Open Source) Software sein.
 
 > [!NOTE]
-> Nicht alle aufgeführten Programme und Tools sind Open Source bzw. freie Software.  
-> Teilweise sollen es auch einfach alternativen sein, um nicht von Techgiganten abhängig zu sein.
+> Nicht alle hier genannten Programme sind kostenlos oder quelloffen (Open Source). Manche sind einfach gute Alternativen, um unabhängig von proprietärer Software oder SaaS-Lösungen zu sein.
 
 > [!IMPORTANT]
-> Manche Beschreibungstexte wiederspiegeln meine persönliche Meinung oder Gewichtung, sollen aber nicht als wertend verstanden werden!  
+> Manche Beschreibungen enthalten meine persönliche Einschätzung. Diese dient zur Orientierung und stellt keine Wertung dar.  
 > Nutzt was ihr wollt, mögt oder kennt. Dies ist nur eine Sammlung von (grösstenteils) freier und Open Source Software.
 
 ## VMs
