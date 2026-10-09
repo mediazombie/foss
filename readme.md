@@ -4,12 +4,12 @@
 Dies soll eine Übersicht über freie und Open Source Software sein.
 
 > [!NOTE]
-> Nicht alle aufgeführten Programme und Tools sind Open Source bzw. freie Software.
+> Nicht alle aufgeführten Programme und Tools sind Open Source bzw. freie Software.  
 > Teilweise sollen es auch einfach alternativen sein, um nicht von Techgiganten abhängig zu sein.
 
-> [!NOTE]
-> Manche Beschreibungstexte wiederspiegeln meine persönliche Meinung, sollen aber nicht als wertend verstanden werden!
-> Nutzt was ihr wollt, mögt oder kennt. Dies ist nur eine Sammlung von (gröstenteils) freier und Open Source Software.
+> [!IMPORTANT]
+> Manche Beschreibungstexte wiederspiegeln meine persönliche Meinung oder Gewichtung, sollen aber nicht als wertend verstanden werden!  
+> Nutzt was ihr wollt, mögt oder kennt. Dies ist nur eine Sammlung von (grösstenteils) freier und Open Source Software.
 
 ## VMs
 
@@ -20,6 +20,13 @@ Dies soll eine Übersicht über freie und Open Source Software sein.
 | [Boxen](https://apps.gnome.org/de/Boxes/) | GNOME App zur Virtualisierung |
 | [Oracle VirtualBox](https://www.virtualbox.org/) | Virtualisierungssoftware von Oracle |
 | [UTM](https://mac.getutm.app/) | Virtualisierungssoftware speziell für MacOS |
+
+### Containervirtualisierung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Docker](https://www.docker.com/) | Isolierung von Anwendungen durch Containervirtualisierung |
+| [Podman](https://podman.io/) | Höhere Sicherheit und weniger Verbrauch von Systemressourcen im Vergleich zu Docker |
 
 ## IDEs (Editoren)
 
@@ -35,6 +42,12 @@ Dies soll eine Übersicht über freie und Open Source Software sein.
 | [Neovim](https://neovim.io/) | Vim-basierter Texteditor |
 | [Vim](https://www.vim.org/) | Gut konfigurierbarer Texteditor |
 
+### Entwicklung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Git](https://git-scm.com/) | Von Linus Torvalds entwickeltes Versionskontrollsystem |
+
 ## Videobearbeitung
 
 | Link | Beschreibung |
@@ -43,6 +56,20 @@ Dies soll eine Übersicht über freie und Open Source Software sein.
 | [FilmCraft](https://github.com/storytold/filmcraft) | Rust Video Editor ähnlich wie Adobe Premiere |
 | [Lightworks](https://lwks.com/) | Kostenpflichtiger Video Editor mit kostenloser Version |
 | [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/studio) | Profesioneller Video Editor mit kostenloser Version |
+| [HandBrake](https://handbrake.fr/) | Videokonverter zum Umwandeln von Videos in fast jedes Format |
+
+### Videoaufnahmen und Live-Streaming
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [OBS](https://obsproject.com/de) | Bekannteste App für Live-Streaming und Desktopaufnahmen |
+
+### Videowiedergabe
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [VLC Media Player](https://www.videolan.org/vlc/index.html) | Bekanntester Media-Player |
+| [mpv](https://mpv.io/) | Alternative zu VLC (weniger Anwenderfreundlich aber top Bildqualität, schnell und mittels Skripts erweiterbar) |
 
 ## Videoeffekte und 3D Animation
 
@@ -51,6 +78,17 @@ Dies soll eine Übersicht über freie und Open Source Software sein.
 | [Fusion](https://www.blackmagicdesign.com/de/products/fusion) | Vom Hersteller von DaVinci Resolve |
 | [Natron](https://natrongithub.github.io/) | Open Source Visual Effect Editor |
 | [Blender](https://www.blender.org/) | Blender eben |
+
+## Audiobearbeitung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Audacity](https://www.audacityteam.org/) | Die wohl beliebteste Audiobearbeitungs- und Aufnahme-App |
+| [Tenacity](https://tenacityaudio.org/) | Alternative (Klon) zu *Audacity* aber ohne die Telemetrie und Datensammlung von *Audacity* |
+| [Ardour](https://ardour.org/) | Vollwertige Digital Audio Workstation (DAW) und sehr mächtig |
+| [LMMS](https://lmms.io/) | Musik produzieren, Beats bauen oder mit Synthesizern arbeiten (ähnlich wie FL Studio aber zum Schneiden von Sprachaufnahmen eher ungeeignet) |
+| [Mixxx](https://mixxx.org/) | Open-Source-Software speziell für DJs (Live-Mixe mit digitalen Musikdateien) |
+| [FL Studio](https://www.image-line.com/) | Nicht kostenlos, aber ohne Abo mit Einmalkauf oder Abzahlung |
 
 ## Kreativ-Suite
 
@@ -161,9 +199,24 @@ Dies soll eine Übersicht über freie und Open Source Software sein.
 | [Bitwarden](https://bitwarden.com/) | Bekannter Passwortmaanger (kann mittels [Vaultwarden](https://github.com/dani-garcia/vaultwarden) privat selber gehosted werden) |
 | [Passbolt](https://www.passbolt.com/) | Open Source Passwortmanager |
 | [Psono](https://psono.com/de) | Selbstgehosteter Open Source Passwortmanager |
+| [KeePassXC](https://keepassxc.org/) | Bekannter lokaler Passwortmanager |
 | [Pass](https://www.passwordstore.org/) | Standard "Unix" Passwortmanager (TUI - [Anleitung](https://ryan.himmelwright.net/post/setting-up-pass/)) |
 
-## Cloud-Speicher
+### Sicherheit & Privatsphäre
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [VeraCrypt](https://veracrypt.io/en/Home.html) | Vollständige Verschlüsselung von Festplatten, Partitionen oder USB-Sticks |
+| [Kleopatra](https://apps.kde.org/de/kleopatra/) | Visuelles Kontrollzentrum für E-Mail- und Dateiverschlüsselung (OpenPGP) |
+| [Signal](https://signal.org/de/) | Krypto-Messenger für Smartphones und PCs für sichere Kommunikation |
+
+## Systemtools
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [GParted](https://gparted.org/) | Bekanntes Werkzeug zu Festplatten- und Partitionsverwaltung |
+
+## Cloud & Filesharing
 
 | Link | Beschreibung |
 | :--- | :--- |
@@ -171,6 +224,7 @@ Dies soll eine Übersicht über freie und Open Source Software sein.
 | [Filen](https://filen.io/) | 10 GB kostenloser Cloudspeicher |
 | [pCloud](https://www.pcloud.com/de) | Bis zu 10 GB kostenloser Cloudspeicher |
 | [Nextcloud](https://nextcloud.com/de/) | Die Cloud-Lösung zum selber hosten |
+| [qBittorrent](https://www.qbittorrent.org/) | Schlanker und werbefreier BitTorrent-Client |
 
 ## Fernzugriff und Support
 
@@ -183,6 +237,12 @@ Dies soll eine Übersicht über freie und Open Source Software sein.
 | Link | Beschreibung |
 | :--- | :--- |
 | [LocalSend](https://localsend.org/de) | Dateien schnell, sicher und einfach von jedem Gerät aus teilen |
+
+## Beleuchtungssteuerung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [OpenRGB](https://openrgb.org/) | Beleuchtung von PC, RAM, GraKa und Peripherie steuern und synchronisieren |
 
 ## Gruppenchat und Community
 
