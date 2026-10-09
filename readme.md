@@ -1,14 +1,13 @@
 <!-- markdownlint-disable MD013 -->
-# Free Open Source Software (FOSS)
+# SaaS-Alternativen: Open-Source & faire Software
 
-Dies soll eine Übersicht über meist freie und quelloffene (Open Source) Software sein.
+Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgewählten, fairen Bezahlalternativen zu proprietärer Software.
 
 > [!NOTE]
-> Nicht alle hier genannten Programme sind kostenlos oder quelloffen (Open Source). Manche sind einfach gute Alternativen, um unabhängig von proprietärer Software oder SaaS-Lösungen zu sein.
+> Diese Liste erhebt keinen Anspruch auf Vollständigkeit, sondern enthält eine bewusst ausgewählte bzw. mir bekannte Sammlung empfehlenswerter Alternativen.
 
 > [!IMPORTANT]
-> Manche Beschreibungen enthalten meine persönliche Einschätzung. Diese dient zur Orientierung und stellt keine Wertung dar.  
-> Nutzt was ihr wollt, mögt oder kennt. Dies ist nur eine Sammlung von (grösstenteils) freier und Open Source Software.
+> Manche Beschreibungen enthalten meine persönliche Einschätzung. Diese dient zur Orientierung und stellt keine Wertung dar. Nutzt was ihr wollt, mögt oder kennt.
 
 ## VMs
 
@@ -67,7 +66,7 @@ Dies soll eine Übersicht über meist freie und quelloffene (Open Source) Softwa
 
 | Link | Beschreibung |
 | :--- | :--- |
-| [VLC Media Player](https://www.videolan.org/vlc/index.html) | Bekanntester Media-Player |
+| [VLC](https://www.videolan.org/vlc/index.html) | Bekanntester Media-Player |
 | [mpv](https://mpv.io/) | Alternative zu VLC (weniger Anwenderfreundlich aber top Bildqualität, schnell und mittels Skripts erweiterbar) |
 
 ## Videoeffekte und 3D Animation
@@ -87,7 +86,7 @@ Dies soll eine Übersicht über meist freie und quelloffene (Open Source) Softwa
 | [Ardour](https://ardour.org/) | Vollwertige Digital Audio Workstation (DAW) und sehr mächtig |
 | [LMMS](https://lmms.io/) | Musik produzieren, Beats bauen oder mit Synthesizern arbeiten (ähnlich wie FL Studio aber zum Schneiden von Sprachaufnahmen eher ungeeignet) |
 | [Mixxx](https://mixxx.org/) | Open-Source-Software speziell für DJs (Live-Mixe mit digitalen Musikdateien) |
-| [FL Studio](https://www.image-line.com/) | Nicht kostenlos, aber ohne Abo mit Einmalkauf oder Abzahlung |
+| [FL-Studio](https://www.image-line.com/) | Nicht kostenlos, aber ohne Abo mit Einmalkauf oder Abzahlung |
 
 ## Kreativ-Suite
 
@@ -261,10 +260,10 @@ Dies soll eine Übersicht über meist freie und quelloffene (Open Source) Softwa
 | [Mulvad](https://mullvad.net/en/browser) | Maximum an Sicherheit, Privatsphäre und Datenschutz |
 | [LibreWolf](https://librewolf.net/) | Firefox Unterbau aber in sicher |
 | [Helium](https://helium.computer/) | Bessere und saubere alternative zu Brave |
-| [Zen-Browser](https://zen-browser.app/) | Visuell ansprechender Browser mit relativ guter Privatsphäre |
+| [Zen-Browser](https://zen-browser.app/) | Visuell ansprechender Browser mit relativ gutem Datenschutz |
 | [Firefox](https://www.firefox.com/de/) | Standardeinstellungen eher schlecht, nach Eingriffen ganz okay |
 | [Chromium](https://github.com/ungoogled-software/ungoogled-chromium) | Ungoogled-Chromium Browser |
-| [Brave](https://brave.com/de/) | Inzwischen zu viel Bloat (KI, Crypto, Pseudo-VPN) |
-| [Vivaldi](https://vivaldi.com/de/) | Datenschutz eher schlecht, nicht mein Favorit |
+| [Brave](https://brave.com/de/) | Inzwischen zu viel Bloat (KI, Krypto, VPN-Werbung, Telemetrie) |
+| [Vivaldi](https://vivaldi.com/de/) | Viel Bloat, nicht optimal für Anonymitätspuristen (Fingerprinting) |
 | [Opera](https://www.opera.com/de/download) | Absolute Datenkrake - nicht empfehlenswert |
 | [Google Chrome](https://www.google.com/intl/de/chrome/) | Google Datensammler |
