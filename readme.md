@@ -31,7 +31,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [MX Linux](https://mxlinux.org/) | Auf Debian-Stable basierend, effiziente Desktops mit hoher Stabilität und solider Leistung |
 | [Arch](https://archlinux.org/) | Minimalistische Rolling-Release-Distro - nur für erfahrene Benutzer! |
 | [NixOS](https://nixos.org/) | Reproduzierbares, deklaratives und zuverlässiges Linux-System - nur für erfahrene Benutzer! |
-| [Void](https://voidlinux.org/) | Void Linux hebt sich als komplett unabhängige Distribution durch seine radikale Minimalisierung ab, die mittels des blitzschnellen Paketmanagers XBPS und des systemd-Alternative init-Systems runit maximale Kontrolle und Performance garantiert. |
+| [Void](https://voidlinux.org/) | Void Linux hebt sich als komplett unabhängige Distribution durch seine radikale Minimalisierung ab, die mittels des blitzschnellen Paketmanagers XBPS und des systemd-Alternative init-Systems runit maximale Kontrolle und Performance garantiert ([Anleitung](https://www.youtube.com/watch?v=kkXXWAGegUo)). |
 | [Alpine](https://www.alpinelinux.org/about/) | Sicherheitsorientierte, leichtgewichtige Linux-Distribution - eher für erfahrene Benutzer |
 | [EndeavourOS](https://endeavouros.com/) | Leichtgewichtige, auf Arch basierende, terminalzentrierte Distro |
 | [Manjaro](https://manjaro.org/) | Etwas umstrittene Distro auf Arch-Basis, komfortablere Einrichtung und Installation als Arch, mit exzellenter Gaming-Performance |
