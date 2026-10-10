@@ -45,7 +45,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Solus](https://getsol.us/) | Anfängerfreundliches, unabhängiges, ausergewöhnlich stabiles und sehr schnelles Linux mit Budgie-Desktop |
 | [Haiku](https://www.haiku-os.org/) | Von BeOS inspiriertes Open-Source-Betriebssystem, schnell, bedienerfreundlich und leistungsstark |
 | [RedoxOS](https://www.redox-os.org/) | Unix-ähnliches, in Rust geschriebenes und auf Sicherheit und Zuverlässigkeit ausgelegtes OS (alternative zu Linux und BSD) |
-| [FreeBSD] | Populärste BSD-Version, sehr gute Hardwareunterstützung (Funfact: OS von Sony Playstation basiert auf FreeBSD) |
+| [FreeBSD](https://www.freebsd.org/) | Populärste BSD-Version, sehr gute Hardwareunterstützung (Funfact: OS von Sony Playstation basiert auf FreeBSD) |
 | [OpenBSD](https://www.openbsd.org/) | Die Sicherheits-Festung! OpenBSD wurde speziell dafür geschaffen, das sicherste Betriebssystem zu sein |
 
 ## VMs
