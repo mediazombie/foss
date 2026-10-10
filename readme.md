@@ -133,6 +133,12 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | :--- | :--- |
 | [Affinity](https://www.affinity.studio/de_de) | Alternative zu Adobe CC |
 
+## Desktop-Publishing (DTP)
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Scribus](https://www.scribus.net/) | Open-Source-Software für DTP (vergleichbar mit Adobe InDesign) |
+
 ## Vektorgrafik
 
 | Link | Beschreibung |
