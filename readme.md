@@ -1,13 +1,52 @@
 <!-- markdownlint-disable MD013 -->
-# SaaS-Alternativen: Open-Source & faire Software
+# Software-Alternativen: Open-Source & faire Software
 
-Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgewählten, fairen Bezahlalternativen zu proprietärer Software.
+Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgewählten, fairen Bezahlalternativen zu proprietärer und SaaS-Software.
 
 > [!NOTE]
 > Diese Liste erhebt keinen Anspruch auf Vollständigkeit, sondern enthält eine bewusst ausgewählte bzw. mir bekannte Sammlung empfehlenswerter Alternativen.
 
 > [!IMPORTANT]
 > Manche Beschreibungen enthalten meine persönliche Einschätzung. Diese dient zur Orientierung und stellt keine Wertung dar. Nutzt was ihr wollt, mögt oder kennt.
+
+## Linux Distros
+
+Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietärer- und SaaS-Software gehen, aber genau da darf eigentlich eine Übersicht zu Alternativen zu MS Windows ebenfalls nicht fehlen.
+
+* Umfangreiche Übersicht über [alle möglichen Linux Distributionen](https://distrowatch.com/dwres.php?resource=popularity) inkl. Beliebtheitsranking
+* Interessantes [Projekt](https://www.linuxfromscratch.org/lfs/) für versierte Linux-Anwender
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Fedora](https://fedoraproject.org/de/) | Stabil, aktueller Linux-Kernel, gute Software-Pakete |
+| [openSUSE](https://www.opensuse.org/de/) | Tumbleweed gilt als stabilstes Rolling-Release, hervorragende KDE-Integration, standardmässig Systembackups |
+| [Ubuntu](https://ubuntu.com/download) | Klassischer Allrounder mit grosser Community |
+| [Linux Mint](https://linuxmint.com/) | Einsteigerfreundliche Linux Distribution |
+| [ZorinOS](https://zorin.com/) | Speziell für Einsteiger und Umsteiger von Windows |
+| [PikaOS](https://wiki.pika-os.com/de/home) | Gaming optimiert, Benutzerfreundlich und hohe Kompatibilität |
+| [CachyOS](https://cachyos.org/) | Extrem auf Performance und Gaming optimiert (basiert auf Arch) |
+| [Bazzite](https://bazzite.gg/) | Performance und Gaming-Optimiert, basiert auf Fedora, Immutable (isoliertes Kernsystem, daher fast unzerstörbar) |
+| [Fedora SILVERBLUE](https://fedoraproject.org/atomic-desktops/silverblue/) | Atomic-System (ähnlich Bazzite) aber eher auf Workstation getrimmt |
+| [Debian](https://www.debian.org/index.de.html) | Klassische, extrem robuste Basis für Server und erfahrene Anwender |
+| [MX Linux](https://mxlinux.org/) | Auf Debian-Stable basierend, effiziente Desktops mit hoher Stabilität und solider Leistung |
+| [Arch](https://archlinux.org/) | Minimalistische Rolling-Release-Distro - nur für erfahrene Benutzer! |
+| [NixOS](https://nixos.org/) | Reproduzierbares, deklaratives und zuverlässiges Linux-System - nur für erfahrene Benutzer! |
+| [Alpine](https://www.alpinelinux.org/about/) | Sicherheitsorientierte, leichtgewichtige Linux-Distribution - eher für erfahrene Benutzer |
+| [EndeavourOS](https://endeavouros.com/) | Leichtgewichtige, auf Arch basierende, terminalzentrierte Distro |
+| [Manjaro](https://manjaro.org/) | Etwas umstrittene Distro auf Arch-Basis, komfortablere Einrichtung und Installation als Arch, mit exzellenter Gaming-Performance |
+| [Pop!_OS](https://system76.com/pop) | Auf Basis von Ubuntu-LTS, vom Hardware-Hersteller System76, COSMIC-Desktop noch eher unausgereift |
+
+### Spezielle Linux- bzw. Linux-ähnliche Betriebssysteme
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [ParrotOS](https://parrotsec.org/) | Spezielle Linux-Distro für Pentesting und Hacking |
+| [Kali Linux](https://www.kali.org/) | Ebenfalls eine spezielle Linux-Distro für Pentesting und Hacking |
+| [Solus](https://getsol.us/) | Anfängerfreundliches, unabhängiges, ausergewöhnlich stabiles und sehr schnelles Linux mit Budgie-Desktop |
+| [Haiku](https://www.haiku-os.org/) | Von BeOS inspiriertes Open-Source-Betriebssystem, schnell, bedienerfreundlich und leistungsstark |
+| [RedoxOS](https://www.redox-os.org/) | Unix-ähnliches, in Rust geschriebenes und auf Sicherheit und Zuverlässigkeit ausgelegtes OS (alternative zu Linux und BSD) |
+| [FreeBSD] | Populärste BSD-Version, sehr gute Hardwareunterstützung (Funfact: OS von Sony Playstation basiert auf FreeBSD) |
+| [OpenBSD](https://www.openbsd.org/) | Die Sicherheits-Festung! OpenBSD wurde speziell dafür geschaffen, das sicherste Betriebssystem zu sein |
 
 ## VMs
 
