@@ -133,6 +133,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | Link | Beschreibung |
 | :--- | :--- |
 | [Affinity](https://www.affinity.studio/de_de) | Alternative zu Adobe CC |
+| [Artcraft](https://getartcraft.com/apps) | Mittels reverse Engineering hat ein einzelner Entwickler aus Frust über Adobe's SaaS sämtliche Adobe Apps mittels KI und der Programmiersprache [Rust](https://rust-lang.org/) komplett nachgebaut! Das Ganze ist jedoch noch in einem sehr frühen Alpha-Stadium ([Artikel hierzu](https://www.derstandard.de/story/3000000343256/von-adobe-genervter-entwickler-baut-photoshop-premiere-und-co-mit-ki-als-open-source-nach)). |
 
 ## Desktop-Publishing (DTP)
 
