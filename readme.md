@@ -135,6 +135,12 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Affinity](https://www.affinity.studio/de_de) | Alternative zu Adobe CC |
 | [Artcraft](https://getartcraft.com/apps) | Mittels reverse Engineering hat ein einzelner Entwickler aus Frust über Adobe's SaaS sämtliche Adobe Apps mittels KI und der Programmiersprache [Rust](https://rust-lang.org/) komplett nachgebaut! Das Ganze ist jedoch noch in einem sehr frühen Alpha-Stadium ([Artikel hierzu](https://www.derstandard.de/story/3000000343256/von-adobe-genervter-entwickler-baut-photoshop-premiere-und-co-mit-ki-als-open-source-nach)). |
 
+### Spielentwicklung
+
+| Link | Beschreibung |
+| :--- | :--- |
+| [Godot](https://godotengine.org/de/) | Spielentwicklung in 2D & 3D, für Plattformübergreifende Projekte |
+
 ## Desktop-Publishing (DTP)
 
 | Link | Beschreibung |
@@ -253,6 +259,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | :--- | :--- |
 | [VeraCrypt](https://veracrypt.io/en/Home.html) | Vollständige Verschlüsselung von Festplatten, Partitionen oder USB-Sticks |
 | [Kleopatra](https://apps.kde.org/de/kleopatra/) | Visuelles Kontrollzentrum für E-Mail- und Dateiverschlüsselung (OpenPGP) |
+| [ProtonVPN](https://protonvpn.com/de) | VPN zum Schutz des realen Standortes und somit der Privatsphäre |
 | [Signal](https://signal.org/de/) | Krypto-Messenger für Smartphones und PCs für sichere Kommunikation |
 
 ## Systemtools
@@ -260,6 +267,11 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | Link | Beschreibung |
 | :--- | :--- |
 | [GParted](https://gparted.org/) | Bekanntes Werkzeug zu Festplatten- und Partitionsverwaltung |
+| [Everything](https://www.voidtools.com/downloads/) | Sehr schnelle Suche unter Windows |
+| [FSearch](https://github.com/cboxdoerfer/fsearch) | GUI-Alternative für Linux |
+| [plocate](https://plocate.sesse.net/) | TUI-Alternative für Linux |
+| [Syncthing](https://syncthing.net/) | Dateien verschlüsselt zwischen deinen eigenen Geräten synchronisieren (ohne fremde Cloud-Server) |
+| [ShareX](https://github.com/sharex/sharex) | Tool für Bildschirmaufnahmen und Screenshots unter Windows |
 
 ## Cloud & Filesharing
 
@@ -269,13 +281,24 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Filen](https://filen.io/) | 10 GB kostenloser Cloudspeicher |
 | [pCloud](https://www.pcloud.com/de) | Bis zu 10 GB kostenloser Cloudspeicher |
 | [Nextcloud](https://nextcloud.com/de/) | Die Cloud-Lösung zum selber hosten |
+
+### Download-Manager
+
+| Link | Beschreibung |
+| :--- | :--- |
 | [qBittorrent](https://www.qbittorrent.org/) | Schlanker und werbefreier BitTorrent-Client |
+| [JDownloader](https://jdownloader.org/jdownloader2) | Download-Manager, geschrieben in Java |
+| [FDM](https://www.freedownloadmanager.org/de/) | Download-Manager mit Torrent-Unterstützung |
+| [VideoFetch](https://github.com/ifsvivek/VideoFetch) | Plugin für [FDM](https://www.freedownloadmanager.org/de/) zum Download von Videos diverser Plattformen |
+| [ClipGrab](https://clipgrab.org/) | Einfach gehaltenes, populäres Programm speziell für Video-Plattformen |
+| [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) | Video-Download-Manager, nicht nur für YouTube |
 
 ## Fernzugriff und Support
 
 | Link | Beschreibung |
 | :--- | :--- |
 | [RustDesk](https://rustdesk.com/de/) | Gute alternative zu TeamViewer |
+| [Parsec](https://parsec.app/) | Fernzugriff und Streaming von Bildschirminhalten |
 
 ## Dateien teilen
 
