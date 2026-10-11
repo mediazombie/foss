@@ -13,6 +13,8 @@ Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgew�
 
 Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietärer- und SaaS-Software gehen, aber genau da darf eigentlich eine Übersicht zu Alternativen zu MS Windows ebenfalls nicht fehlen.
 
+**Weitere Informationen:**
+
 * Umfangreiche Übersicht über [alle möglichen Linux Distributionen](https://distrowatch.com/dwres.php?resource=popularity) inkl. Beliebtheitsranking
 * Interessantes [Projekt](https://www.linuxfromscratch.org/lfs/) für versierte Linux-Anwender
 
