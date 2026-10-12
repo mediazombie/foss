@@ -1,5 +1,11 @@
 <!-- markdownlint-disable MD013 -->
 # Software-Alternativen: Open-Source & faire Software
+<!-- Badges für mediazombie/foss -->
+[![GitHub Release](https://img.shields.io/github/v/release/mediazombie/foss)](https://github.com/mediazombie/foss/releases)
+[![GitHub License](https://img.shields.io/github/license/mediazombie/foss)](https://github.com/mediazombie/foss/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/mediazombie/foss)](https://github.com/mediazombie/foss/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/mediazombie/foss)](https://github.com/mediazombie/foss/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/mediazombie/foss)](https://github.com/mediazombie/foss/pulls)
 
 Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgewählten, fairen Bezahlalternativen zu proprietärer und SaaS-Software.
 
