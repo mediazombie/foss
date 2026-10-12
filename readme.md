@@ -15,14 +15,47 @@ Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgew�
 > [!IMPORTANT]
 > Manche Beschreibungen enthalten meine persönliche Einschätzung. Diese dient zur Orientierung und stellt keine Wertung dar. Nutzt was ihr wollt, mögt oder kennt.
 
+---
+
+## Inhaltsverzeichnis
+
+- [Linux Distributionen](#linux-distros)
+- [Virtualisierung](#vms)
+- [IDEs (Editoren)](#ides-editoren)
+- [Videobearbeitung](#videobearbeitung)
+- [Videoeffekte und 3D Animationen](#videoeffekte-und-3d-animation)
+- [Audiobearbeitung](#audiobearbeitung)
+- [Kreativ-Suite](#kreativ-suite)
+- [Desktop-Publishing](#desktop-publishing-dtp)
+- [Vektorgrafik](#vektorgrafik)
+- [Fotografie-Workflow](#fotografie-workflow)
+- [Bildbearbeitung](#bildbearbeitung-zeichnen-malen)
+- [Dokumentenbetrachter](#dokumentenbetrachter-pdf-comic-epub)
+- [CAD](#2d-und-3d-cad)
+- [Office-Anwendungen](#office-anwendungen)
+- [Aufgabenplanung](#todo-aufgabenplanung)
+- [Email-Client](#email-clients)
+- [Notizen und Wissenssammlung](#notizen-und-wissenssammlung)
+- [Buchsammlungen und E-Reader](#e-reader-und-buchsammlung)
+- [Sicherheit & Privatsphäre](#passwortmanager)
+- [Systemtools](#systemtools)
+- [Cloud & Filesharing](#cloud-filesharing)
+- [Fernzugriff und Support](#fernzugriff-und-support)
+- [Dateien teilen](#dateien-teilen)
+- [Beleuchtungssteuerung](#beleuchtungssteuerung)
+- [Gruppenchat und Community](#gruppenchat-und-community)
+- [Webbrowser](#webbrowser)
+
+---
+
 ## Linux Distros
 
 Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietärer- und SaaS-Software gehen, aber genau da darf eigentlich eine Übersicht zu Alternativen zu MS Windows ebenfalls nicht fehlen.
 
 **Weitere Informationen:**
 
-* Umfangreiche Übersicht über [alle möglichen Linux Distributionen](https://distrowatch.com/dwres.php?resource=popularity) inkl. Beliebtheitsranking
-* Interessantes [Projekt](https://www.linuxfromscratch.org/lfs/) für versierte Linux-Anwender
+- Umfangreiche Übersicht über [alle möglichen Linux Distributionen](https://distrowatch.com/dwres.php?resource=popularity) inkl. Beliebtheitsranking
+- Interessantes [Projekt](https://www.linuxfromscratch.org/lfs/) für versierte Linux-Anwender
 
 | Link | Beschreibung |
 | :--- | :--- |
