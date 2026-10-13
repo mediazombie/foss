@@ -29,17 +29,17 @@ Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgew�
 - [Desktop-Publishing](#desktop-publishing-dtp)
 - [Vektorgrafik](#vektorgrafik)
 - [Fotografie-Workflow](#fotografie-workflow)
-- [Bildbearbeitung](#bildbearbeitung-zeichnen-malen)
+- [Bildbearbeitung](#bildbearbeitung-zeichnen--malen)
 - [Dokumentenbetrachter](#dokumentenbetrachter-pdf-comic-epub)
-- [CAD](#2d-und-3d-cad)
+- [CAD](2d-und-3d-cad)
 - [Office-Anwendungen](#office-anwendungen)
-- [Aufgabenplanung](#todo-aufgabenplanung)
+- [Aufgabenplanung](#todo--aufgabenplanung)
 - [Email-Client](#email-clients)
 - [Notizen und Wissenssammlung](#notizen-und-wissenssammlung)
 - [Buchsammlungen und E-Reader](#e-reader-und-buchsammlung)
 - [Sicherheit & Privatsphäre](#passwortmanager)
 - [Systemtools](#systemtools)
-- [Cloud & Filesharing](#cloud-filesharing)
+- [Cloud & Filesharing](#cloud--filesharing)
 - [Fernzugriff und Support](#fernzugriff-und-support)
 - [Dateien teilen](#dateien-teilen)
 - [Beleuchtungssteuerung](#beleuchtungssteuerung)
@@ -90,6 +90,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [FreeBSD](https://www.freebsd.org/) | Populärste BSD-Version, sehr gute Hardwareunterstützung (Funfact: OS von Sony Playstation basiert auf FreeBSD) |
 | [OpenBSD](https://www.openbsd.org/) | Die Sicherheits-Festung! OpenBSD wurde speziell dafür geschaffen, das sicherste Betriebssystem zu sein |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## VMs
 
 | Link | Beschreibung |
@@ -106,6 +108,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | :--- | :--- |
 | [Docker](https://www.docker.com/) | Isolierung von Anwendungen durch Containervirtualisierung |
 | [Podman](https://podman.io/) | Höhere Sicherheit und weniger Verbrauch von Systemressourcen im Vergleich zu Docker |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## IDEs (Editoren)
 
@@ -126,6 +130,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | Link | Beschreibung |
 | :--- | :--- |
 | [Git](https://git-scm.com/) | Von Linus Torvalds entwickeltes Versionskontrollsystem |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Videobearbeitung
 
@@ -150,6 +156,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [VLC](https://www.videolan.org/vlc/index.html) | Bekanntester Media-Player |
 | [mpv](https://mpv.io/) | Alternative zu VLC (weniger Anwenderfreundlich aber top Bildqualität, schnell und mittels Skripts erweiterbar) |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Videoeffekte und 3D Animation
 
 | Link | Beschreibung |
@@ -157,6 +165,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Fusion](https://www.blackmagicdesign.com/de/products/fusion) | Vom Hersteller von DaVinci Resolve |
 | [Natron](https://natrongithub.github.io/) | Open Source Visual Effect Editor |
 | [Blender](https://www.blender.org/) | Blender eben |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Audiobearbeitung
 
@@ -168,6 +178,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [LMMS](https://lmms.io/) | Musik produzieren, Beats bauen oder mit Synthesizern arbeiten (ähnlich wie FL Studio aber zum Schneiden von Sprachaufnahmen eher ungeeignet) |
 | [Mixxx](https://mixxx.org/) | Open-Source-Software speziell für DJs (Live-Mixe mit digitalen Musikdateien) |
 | [FL-Studio](https://www.image-line.com/) | Nicht kostenlos, aber ohne Abo mit Einmalkauf oder Abzahlung |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Kreativ-Suite
 
@@ -182,11 +194,15 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | :--- | :--- |
 | [Godot](https://godotengine.org/de/) | Spielentwicklung in 2D & 3D, für Plattformübergreifende Projekte |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Desktop-Publishing (DTP)
 
 | Link | Beschreibung |
 | :--- | :--- |
 | [Scribus](https://www.scribus.net/) | Open-Source-Software für DTP (vergleichbar mit Adobe InDesign) |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Vektorgrafik
 
@@ -195,6 +211,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [InkScape](https://inkscape.org/) | Vektorgrafiken erstellen und bearbeiten (vergleichbar mit Adobe Illustrator) |
 | [Graphite](https://github.com/GraphiteEditor/Graphite) | Open Source Vektorgrafikprogramm |
 | [Vectorpea](https://www.vectorpea.com/) | Online Vektorgrafiken bearbeiten |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Fotografie-Workflow
 
@@ -205,6 +223,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [RAW Therapee](https://rawtherapee.com/) | RAW Bildverarbeitungsprogramm |
 | [eagle](https://eagle.cool/) | Bilddateien organisieren |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Bildbearbeitung, Zeichnen & malen
 
 | Link | Beschreibung |
@@ -214,6 +234,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Krita](https://krita.org/de/) | Digital zeichnen und malen (ebenfalls Open Source) |
 | [Photopea](https://www.photopea.com/) | Online Fotobearbeitungsprogramm (ähnlich wie Adobe Photoshop) |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Dokumentenbetrachter (PDF, Comic, EPub)
 
 | Link | Beschreibung |
@@ -221,6 +243,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Okular](https://okular.kde.org/de/) | Universeller Dokumentenbetrachter (vergleichbar mit Adobe Acrobat) |
 | [Libre Office Draw](https://de.libreoffice.org/discover/draw/) | Texte und Grafiken in PDF's bearbeiten inkl. digitaler Signaturen |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Open Source PDF's bearbeiten |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## 2D- und 3D-CAD
 
@@ -230,6 +254,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [QCAD](https://www.qcad.org/de/) | Open Source 2D-CAD |
 | [FreeCAD](https://www.freecad.org/) | Parametrisch 3D-Modellieren (Installation Fedora `sudo dnf install freecad`) |
 | [Onshape](https://www.onshape.com/de/) | Online-3D-CAD von PTC (**Achtung**: öffentliche Speicherung bei der kostenlosen Version) |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Office-Anwendungen
 
@@ -241,12 +267,16 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Wire](https://wire.com/de/) | Sicherer Open Source Ersatz für MS Teams |
 | [Nextcloud Talk](https://nextcloud.com/de/talk/) | Für kleine Teams kostenlos (Ersatz für MS Teams) |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## ToDo & Aufgabenplanung
 
 | Link | Beschreibung |
 | :--- | :--- |
 | [Super Productivity](https://super-productivity.com/) | Aufgabenverwaltung (ToDo's) |
 | [Vikunja](https://vikunja.io/) | Umfangreicher Aufgabenplaner |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Email Clients
 
@@ -255,6 +285,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Thunderbird](https://www.thunderbird.net/de/) | Standard Email-Client (ähnlich wie MS Outlook) |
 | [Geary](https://gitlab.gnome.org/GNOME/geary) | Open Source Email-Client |
 | [Evolution](https://gitlab.gnome.org/GNOME/evolution) | Email-Client mit integriertem Kalender und Adressbuch |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Notizen und Wissenssammlung
 
@@ -276,12 +308,16 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | :--- | :--- |
 | [Zotero](https://www.zotero.org/) | Spezielle Notizen-App - gut für Buchsammlungen und Recherchen für Studium und Beruf |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## E-Reader und Buchsammlung
 
 | Link | Beschreibung |
 | :--- | :--- |
 | [Readest](https://readest.com/de) | Kostenloser, Quelloffener Reader für EPub und PDF's |
 | [Calibre](https://calibre-ebook.com/) | Vermutlich der bekannteste EBook-Reader |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Passwortmanager
 
@@ -303,6 +339,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [ProtonVPN](https://protonvpn.com/de) | VPN zum Schutz des realen Standortes und somit der Privatsphäre |
 | [Signal](https://signal.org/de/) | Krypto-Messenger für Smartphones und PCs für sichere Kommunikation |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Systemtools
 
 | Link | Beschreibung |
@@ -313,6 +351,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [plocate](https://plocate.sesse.net/) | TUI-Alternative für Linux |
 | [Syncthing](https://syncthing.net/) | Dateien verschlüsselt zwischen deinen eigenen Geräten synchronisieren (ohne fremde Cloud-Server) |
 | [ShareX](https://github.com/sharex/sharex) | Tool für Bildschirmaufnahmen und Screenshots unter Windows |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Cloud & Filesharing
 
@@ -334,6 +374,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [ClipGrab](https://clipgrab.org/) | Einfach gehaltenes, populäres Programm speziell für Video-Plattformen |
 | [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) | Video-Download-Manager, nicht nur für YouTube |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Fernzugriff und Support
 
 | Link | Beschreibung |
@@ -341,17 +383,23 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [RustDesk](https://rustdesk.com/de/) | Gute alternative zu TeamViewer |
 | [Parsec](https://parsec.app/) | Fernzugriff und Streaming von Bildschirminhalten |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Dateien teilen
 
 | Link | Beschreibung |
 | :--- | :--- |
 | [LocalSend](https://localsend.org/de) | Dateien schnell, sicher und einfach von jedem Gerät aus teilen |
 
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
 ## Beleuchtungssteuerung
 
 | Link | Beschreibung |
 | :--- | :--- |
 | [OpenRGB](https://openrgb.org/) | Beleuchtung von PC, RAM, GraKa und Peripherie steuern und synchronisieren |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Gruppenchat und Community
 
@@ -363,6 +411,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [GameVox](https://gamevox.com/de/) | Noch eine alternative zu Discord |
 | [matrix](https://matrix.org/) | Offenes Netzwerk für sichere, dezentrale Kommunikation |
 | [Teamspeak 6](https://www.teamspeak.com/de/downloads/) | Aktuellste und stark überarbeitete Version von Teamspeak |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
 ## Webbrowser
 
@@ -378,3 +428,5 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Vivaldi](https://vivaldi.com/de/) | Viel Bloat, nicht optimal für Anonymitätspuristen (Fingerprinting) |
 | [Opera](https://www.opera.com/de/download) | Absolute Datenkrake - nicht empfehlenswert |
 | [Google Chrome](https://www.google.com/intl/de/chrome/) | Google Datensammler |
+
+[🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
