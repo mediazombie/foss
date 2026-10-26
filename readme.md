@@ -31,7 +31,7 @@ Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgew�
 - [Fotografie-Workflow](#fotografie-workflow)
 - [Bildbearbeitung](#bildbearbeitung-zeichnen--malen)
 - [Dokumentenbetrachter](#dokumentenbetrachter-pdf-comic-epub)
-- [CAD](#2d--und-3d-cad)
+- [CAD](2d--und-3d-cad)
 - [Office-Anwendungen](#office-anwendungen)
 - [Aufgabenplanung](#todo--aufgabenplanung)
 - [Email-Client](#email-clients)
@@ -142,6 +142,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Lightworks](https://lwks.com/) | Kostenpflichtiger Video Editor mit kostenloser Version |
 | [DaVinci Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/studio) | Profesioneller Video Editor mit kostenloser Version |
 | [HandBrake](https://handbrake.fr/) | Videokonverter zum Umwandeln von Videos in fast jedes Format |
+| [Shutter Encoder](https://www.shutterencoder.com/) | Medienformate einfach konvertieren und bearbeiten (sehr umfangreiches Tool) |
+| [Constrict](https://apps.gnome.org/de/Constrict/) | Videos auf angestrebte Zielgrössen komprimieren |
 
 ### Videoaufnahmen und Live-Streaming
 
@@ -233,6 +235,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Pinta](https://www.pinta-project.com/) | Open Source Zeichnen und Bildbearbeitung |
 | [Krita](https://krita.org/de/) | Digital zeichnen und malen (ebenfalls Open Source) |
 | [Photopea](https://www.photopea.com/) | Online Fotobearbeitungsprogramm (ähnlich wie Adobe Photoshop) |
+| [Curtail](https://apps.gnome.org/de/Curtail/) | Bilder komprimieren (unterstützte Formate: PNG, JPEG, WebP und SVG) |
+| [Upscayl](https://github.com/upscayl/upscayl) | Bilder und Fotos mittels KI vergrössern bzw. verbessern (KI läuft lokal auf eigener Hardware) |
 
 [🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -243,6 +247,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Okular](https://okular.kde.org/de/) | Universeller Dokumentenbetrachter (vergleichbar mit Adobe Acrobat) |
 | [Libre Office Draw](https://de.libreoffice.org/discover/draw/) | Texte und Grafiken in PDF's bearbeiten inkl. digitaler Signaturen |
 | [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Open Source PDF's bearbeiten |
+| [PDF Arranger](https://github.com/pdfarranger/pdfarranger) | PDF-Dokumente zusammenführen oder aufteilen sowie deren Seiten drehen, zuschneiden und neu anordnen |
 
 [🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -351,6 +356,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [plocate](https://plocate.sesse.net/) | TUI-Alternative für Linux |
 | [Syncthing](https://syncthing.net/) | Dateien verschlüsselt zwischen deinen eigenen Geräten synchronisieren (ohne fremde Cloud-Server) |
 | [ShareX](https://github.com/sharex/sharex) | Tool für Bildschirmaufnahmen und Screenshots unter Windows |
+| [Gradia](https://apps.gnome.org/de/Gradia/) | Bildschirmfotos (Screenshots) erstellen und mit Anmerkungen versehen |
 
 [🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -373,6 +379,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [VideoFetch](https://github.com/ifsvivek/VideoFetch) | Plugin für [FDM](https://www.freedownloadmanager.org/de/) zum Download von Videos diverser Plattformen |
 | [ClipGrab](https://clipgrab.org/) | Einfach gehaltenes, populäres Programm speziell für Video-Plattformen |
 | [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) | Video-Download-Manager, nicht nur für YouTube |
+| [Parabolic](https://github.com/nickvisionapps/parabolic) | Web-Video und -Audio runter laden (auch für MacOS und Windows) |
+| [Video Downloader](https://github.com/Unrud/video-downloader) | Videos von Webseiten runter laden (einfache Benutzeroberfläche) |
 
 [🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
@@ -411,6 +419,8 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [GameVox](https://gamevox.com/de/) | Noch eine alternative zu Discord |
 | [matrix](https://matrix.org/) | Offenes Netzwerk für sichere, dezentrale Kommunikation |
 | [Teamspeak 6](https://www.teamspeak.com/de/downloads/) | Aktuellste und stark überarbeitete Version von Teamspeak |
+| [ZapZap](https://rtosta.com/zapzap/) | Open-Source WhatsApp Client |
+| [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) | Inoffizieller Microsoft Teams Client für Linux |
 
 [🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
