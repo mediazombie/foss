@@ -290,6 +290,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Thunderbird](https://www.thunderbird.net/de/) | Standard Email-Client (ähnlich wie MS Outlook) |
 | [Geary](https://gitlab.gnome.org/GNOME/geary) | Open Source Email-Client |
 | [Evolution](https://gitlab.gnome.org/GNOME/evolution) | Email-Client mit integriertem Kalender und Adressbuch |
+| [Betterbird](https://www.betterbird.eu/) | Von Thunderbird abgeleiteter und optimierter Email-Client |
 
 [🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
 
