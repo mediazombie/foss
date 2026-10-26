@@ -15,7 +15,7 @@ This is a curated list predominantly of open-source software, along with selecte
 > [!IMPORTANT]
 > Some descriptions contain my personal assessment. They are for guidance and do not constitute a verdict. Use whatever you want, like, or know.
 
-> 🌍 [Deutsche Version hier verfügbar](README.md)
+> 🌍 [Deutsche Version hier verfügbar](https://github.com/mediazombie/foss/README.md)
 
 ---
 
