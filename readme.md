@@ -15,7 +15,7 @@ Dies ist eine kuratierte Liste mit vorwiegend Open-Source-Software sowie ausgew�
 > [!IMPORTANT]
 > Manche Beschreibungen enthalten meine persönliche Einschätzung. Diese dient zur Orientierung und stellt keine Wertung dar. Nutzt was ihr wollt, mögt oder kennt.
 
-> 🌍 [English version available here](https://github.com/mediazombie/foss/README.en.md)
+> 🌍 [English version available here](https://github.com/mediazombie/foss/blob/main/readme.en.md)
 
 ---
 
