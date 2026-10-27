@@ -433,7 +433,9 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [GameVox](https://gamevox.com/de/) | Noch eine alternative zu Discord |
 | [matrix](https://matrix.org/) | Offenes Netzwerk für sichere, dezentrale Kommunikation |
 | [Teamspeak 6](https://www.teamspeak.com/de/downloads/) | Aktuellste und stark überarbeitete Version von Teamspeak |
+| [Mumble](https://www.mumble.info/) | Open-Source-basierte VoIP-Software mit sehr geringer Latenz und hoher Klangqualität. |
 | [ZapZap](https://rtosta.com/zapzap/) | Open-Source WhatsApp Client |
+| [Gajin](https://gajim.org/de/) | Open-Source Instant-Messaging-Client für das XMPP-Protokol - sehr sichere Alternative zu WhatsApp und Co. |
 | [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) | Inoffizieller Microsoft Teams Client für Linux |
 
 [🔼 Zurück zum Inhaltsverzeichnis](#inhaltsverzeichnis)
