@@ -191,6 +191,7 @@ Es soll in dieser Übersicht zwar primär um Software-Alternativen zu proprietä
 | [Tenacity](https://tenacityaudio.org/) | Alternative (Klon) zu *Audacity* aber ohne die Telemetrie und Datensammlung von *Audacity* |
 | [Ardour](https://ardour.org/) | Vollwertige Digital Audio Workstation (DAW) und sehr mächtig |
 | [LMMS](https://lmms.io/) | Musik produzieren, Beats bauen oder mit Synthesizern arbeiten (ähnlich wie FL Studio aber zum Schneiden von Sprachaufnahmen eher ungeeignet) |
+| [Froupbox](https://froupbox.github.io) | Kostenloses Open-Source-Tool für browserbasierte Songkomposition und Chiptunes |
 | [Mixxx](https://mixxx.org/) | Open-Source-Software speziell für DJs (Live-Mixe mit digitalen Musikdateien) |
 | [FL-Studio](https://www.image-line.com/) | Nicht kostenlos, aber ohne Abo mit Einmalkauf oder Abzahlung |
 
